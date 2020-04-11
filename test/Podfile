@@ -1,0 +1,18 @@
+source 'https://github.com/CocoaPods/Specs.git'
+platform :ios, ‘7.0’
+target "jiedaiHa" do
+pod 'GCDTimer', '~> 1.1.0'
+pod 'XAspect'
+pod 'ReactiveCocoa'
+pod 'MBProgressHUD'
+pod 'FLKAutoLayout'
+pod 'Masonry'
+pod 'IQKeyboardManager'
+pod "YYWebImage"
+pod 'YYImage/WebP'
+pod 'AFNetworking'
+pod 'SVProgressHUD'
+pod 'JSONModel'
+pod 'UITableView+FDTemplateLayoutCell'
+pod 'SDWebImage', '~>3.8'
+end
